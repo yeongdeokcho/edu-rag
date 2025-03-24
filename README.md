@@ -10,6 +10,7 @@
 - Retriever
 - Prompt
 - LLM
+  - ollama 설치, EXAONE-Deep 모델 서빙  
 - Chain
 
 ## Agentic RAG
