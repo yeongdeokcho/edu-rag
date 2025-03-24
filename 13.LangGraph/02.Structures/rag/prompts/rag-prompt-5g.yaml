@@ -89,9 +89,6 @@
   # Here is the CONTEXT that you should use to answer the question:
   {context}
 
-  # Here's the previous conversation history:
-  { chat_history }
-
 
 # 출력
   <thinking>
@@ -101,5 +98,3 @@
   </thinking>
   {{답변}}
 
-# Your final answer to the user's question:
-input_variables: ["question", "context", "chat_history"]
