@@ -1,9 +1,9 @@
 # ollama 서빙(로컬 모델 서빙)
 
-Ollama LLM 사용 실습코드 확인 : [실습코드](./09-Ollama.ipynb)
 ## 설치파일 다운로드
 - [설치파일]-[https://ollama.com/download](https://ollama.com/download)
 - 설치
+
 ![설치](./images/ollama_install.png)
 - 설치 확인
 ```shell
@@ -87,6 +87,8 @@ ollama run exaone
 
 ollama stop exaone
 ```
+
+Ollama LLM 사용 실습코드 확인 : [실습코드](./09-Ollama.ipynb)
 
 ---
 ## 참고 자료
