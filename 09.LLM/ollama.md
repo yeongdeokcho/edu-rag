@@ -79,7 +79,7 @@ ollama run exaone
 ![모델 서빙](./images/ollama_run.png)
 ![서빙 확인](./images/ollama_run02.png)
 
-[실습코드-Ollama LLM 사용](./09-Ollama.ipynb)
+
 
 ## 모델 실행 중지
 
@@ -88,7 +88,7 @@ ollama run exaone
 ollama stop exaone
 ```
 
-Ollama LLM 사용 실습코드 확인 : [실습코드](./09-Ollama.ipynb)
+Ollama LLM 사용 실습 : [실습코드-Ollama LLM](./09-Ollama.ipynb)
 
 ---
 ## 참고 자료
