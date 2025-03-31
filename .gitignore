@@ -1,6 +1,7 @@
 ### key ###
 .env
 .env.swp
+01.Basic/01-OpenAI-APIKey.ipynb
 
 
 ### models ###
